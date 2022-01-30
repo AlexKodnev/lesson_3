@@ -1,0 +1,30 @@
+h1 {
+	color: blue;
+}
+h2 {
+	color: chocolate;
+}
+h3 {
+	color: teal;
+}
+.list {
+	color: yellowgreen;
+}
+span {
+	color: red;
+}
+#job {
+	color: violet;
+}
+#gifted,
+#marriage,
+#family,
+#property {
+	color: purple;
+}
+.text > p {
+	color: red;
+}
+footer {
+	color: skyblue;
+}
