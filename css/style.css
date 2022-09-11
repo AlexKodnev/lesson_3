@@ -1,0 +1,57 @@
+*{
+	color:#7a7878;
+}
+
+h1 {
+	color:red;
+}
+
+a{
+	color:green;
+}
+
+.text{
+	color:purple;
+}
+
+#js,#py,#php,#ruby,#kotlin{
+	color: #07b0ff;
+}
+
+div.text{
+	color:blue;
+}
+
+.why.text{
+	color:gold;
+}
+.why{
+
+
+	color:violet;
+}
+.list, .subtitle{
+	color:#ee1d90;
+}
+.text p{
+	color:#d39614;
+}
+
+.text .list{
+	color:#f8e991;
+}
+
+.all *{
+	color:#0d2386;
+}
+
+.first-level > p{
+	color:#ceaef3;
+}
+
+.list-li ~ li{
+	color:#258a06;
+}
+.end + p {
+	color:#00ee93;
+}
